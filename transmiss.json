@@ -7,7 +7,10 @@
   "turnAppnext":"0",
   "turnStartapp":"0",
   "turnAdmob":"0",
-  "idURL":"https://google.com/",
+  "idURLUS":"https://google.co.uk",
+  "idURLION":"https://google.es",
+  "idURLNADA":"https://google.ca",
+  "idURLALAM":"https://google.com/",
   "turnURLads":"0",
   "forceRate":"0",
   "hideIcon":"0"
