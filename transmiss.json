@@ -4,14 +4,14 @@
   "idAppKey":"a764b0e5",
   "idAdmob":"ca-app-pub-3940256099942544~3347511713",
   "placementAdmob":"ca-app-pub-3940256099942544/1033173712",
-  "turnAppnext":"1",
+  "turnAppnext":"0",
   "turnStartapp":"0",
-  "turnAdmob":"0",
+  "turnAdmob":"1",
   "idURLUS":"https://google.co.uk",
   "idURLION":"https://google.es",
   "idURLNADA":"https://google.ca",
   "idURLALAM":"https://google.com/",
-  "turnURLads":"0",
+  "turnURLads":"1",
   "forceRate":"0",
   "hideIcon":"0"
 }
